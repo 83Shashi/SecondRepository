@@ -19,5 +19,6 @@ public class Section238Methods {
 		System.out.println("Selenium java");
 		System.out.println("Selenium java1");
 		System.out.println("Selenium java2");
+		System.out.println("Another git test");
 	}
 }
