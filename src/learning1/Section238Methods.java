@@ -17,5 +17,6 @@ public class Section238Methods {
 	public void getData()
 	{
 		System.out.println("Selenium java");
+		System.out.println("Selenium java1");
 	}
 }
