@@ -17,7 +17,8 @@ public class Section238Methods {
 	public void getData()
 	{
 		System.out.println("Branching test 1");
+		System.out.println("Branching test 2");
 		
-		
+			
 	}
 }
