@@ -16,15 +16,8 @@ public class Section238Methods {
 	//class
 	public void getData()
 	{
-		System.out.println("Selenium java");
-		System.out.println("Selenium java1");
-		System.out.println("Selenium java2");
-		System.out.println("Another git test");
-		System.out.println("Test 1 on Friday");
-		System.out.println("Test 2 on Friday");
-		System.out.println("Test 3 on Friday");
-		System.out.println("Test 4 on Friday");
-		System.out.println("Test 5 on Friday");
+		System.out.println("Branching test 1");
+		
 		
 	}
 }
